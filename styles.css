@@ -1,0 +1,38 @@
+.pic2 img {
+    width: 1050px;
+    
+}
+.pic1 img {
+    width: 800px;
+}
+body{
+    background-color:#f4f4f4;
+}
+.nav {
+    background-color: aqua;
+    color: black;
+    padding: 15px 15px;
+    text-align: start;
+  
+}
+footer {
+    background-color: rgb(224, 184, 83);
+    padding: 15px 15px;
+}
+form input {
+  padding-right: 20%;
+
+}
+.logo img {
+  width: 850px;
+
+}
+.former img {
+    width: 850px;
+}
+.video video {
+    width: 850px;
+}
+.alter img {
+    width: 600px;
+}
